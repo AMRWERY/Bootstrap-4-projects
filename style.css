@@ -1,0 +1,84 @@
+.jumbotron {
+    text-align: center;
+}
+
+.carousel-caption {
+    color: darkblue;
+}
+
+.setionLight {
+    padding: 2rem;
+    background-color: #eceeef;
+}
+
+.sectionDark {
+    padding: 2rem;
+    background-color: #cccccc;
+}
+
+.goodStuff {
+    margin-top: 25px;
+}
+
+button.goodStuffBtn {
+    color: aliceblue;
+    background-color: chocolate;
+    display: block;
+    margin: auto;
+}
+
+h4.modal-title {
+    margin: auto;
+    color: darkblue;
+}
+
+.modalForm {
+   padding: 2rem;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    background-color: darkorange;
+    width: 32%;
+}
+
+p {
+    color: darkblue;
+    text-align: center;
+}
+
+.fa {
+    margin: 10px;
+}
+
+.fa-facebook {
+    color: blue;
+}
+
+.fa-instagram {
+    color: crimson;
+}
+
+.fa-whatsapp {
+    color: forestgreen;
+}
+
+socialWallpaper {
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
